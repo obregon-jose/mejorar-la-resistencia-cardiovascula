@@ -121,6 +121,9 @@ footer {
     grid-template-columns: repeat(4, 1fr);
     gap: 20px;
 }
+.grid-container-2 div {
+    border: 1px solid red;
+}
 /* Responsive Design */
 @media (max-width: 768px) {
     h1 {
