@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://obregon-jose.github.io/mejorar-la-resistencia-cardiovascula/sitemap.xml
